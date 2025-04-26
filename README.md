@@ -1,4 +1,5 @@
-🎓✨ Online College Portal (OCP) ✨🎓
+🎓✨ Online College Portal (OCP) ✨🎓<br>
+
 Welcome to Online College Portal (OCP) — a modern solution for managing educational institution activities online! 🌐🏫
 From course management to event publishing, everything is just a few clicks away! 🚀💻
 
