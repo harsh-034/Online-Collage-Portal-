@@ -31,7 +31,7 @@ From course management to event publishing, everything is just a few clicks away
 📝 Online Application	Students can fill application forms digitally through the website.
 👨‍🏫 Staff Management	Staff can securely log in and manage academic content.
 📊 Student Progress Tracker	Track students' academic journey and milestones securely.
-🛡 Secure Portal	Designed with authentication and secure practices.
+🛡 Secure Portal	Designed with authentication and secure practices. <br>
 🛠️ Tech Stack Used
 Frontend 🌐: HTML5, CSS3, JavaScript, Bootstrap
 
@@ -47,7 +47,7 @@ Tools 🧰: Git, GitHub, XAMPP/WAMP, Visual Studio Code
 bash
 Copy
 Edit
-git clone https://github.com/harsh-034/Online-Collage-Portal-.git
+git clone https://github.com/harsh-034/Online-Collage-Portal-.git<br>
 🛠 Set up a local server (XAMPP/WAMP/MAMP).
 
 🗄 Create a database and import the provided .sql file.
@@ -121,7 +121,7 @@ Submit a Pull Request 🔥
 
 🛡️ Enhanced Role-based Access Control
 
-📊 Analytics Dashboard for Admins
+📊 Analytics Dashboard for Admins <br>
 
 📝 License
 This project is licensed for educational and demonstration purposes only.
